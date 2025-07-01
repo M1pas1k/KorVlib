@@ -1,0 +1,7 @@
+C:\Users\GIGABYTE\source\repos\KorVlib\BookLibrary.API\obj\Debug\net9.0\BookLibrary.API.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\KorVlib\BookLibrary.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\GIGABYTE\source\repos\KorVlib\BookLibrary.API\obj\Debug\net9.0\BookLibrary.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIGABYTE\source\repos\KorVlib\BookLibrary.API\obj\Debug\net9.0\BookLibrary.API.AssemblyInfoInputs.cache
+C:\Users\GIGABYTE\source\repos\KorVlib\BookLibrary.API\obj\Debug\net9.0\BookLibrary.API.AssemblyInfo.cs
+C:\Users\GIGABYTE\source\repos\KorVlib\BookLibrary.API\obj\Debug\net9.0\BookLibrary.API.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\KorVlib\BookLibrary.API\obj\Debug\net9.0\BookLibrary.API.MvcApplicationPartsAssemblyInfo.cache
