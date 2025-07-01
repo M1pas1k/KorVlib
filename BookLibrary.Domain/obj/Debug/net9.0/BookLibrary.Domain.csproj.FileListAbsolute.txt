@@ -1,0 +1,5 @@
+C:\Users\GIGABYTE\source\repos\KorVlib\BookLibrary.Domain\obj\Debug\net9.0\BookLibrary.Domain.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\KorVlib\BookLibrary.Domain\obj\Debug\net9.0\BookLibrary.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIGABYTE\source\repos\KorVlib\BookLibrary.Domain\obj\Debug\net9.0\BookLibrary.Domain.AssemblyInfoInputs.cache
+C:\Users\GIGABYTE\source\repos\KorVlib\BookLibrary.Domain\obj\Debug\net9.0\BookLibrary.Domain.AssemblyInfo.cs
+C:\Users\GIGABYTE\source\repos\KorVlib\BookLibrary.Domain\obj\Debug\net9.0\BookLibrary.Domain.csproj.CoreCompileInputs.cache
