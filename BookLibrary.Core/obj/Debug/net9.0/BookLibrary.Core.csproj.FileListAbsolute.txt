@@ -1,0 +1,12 @@
+C:\Users\GIGABYTE\source\repos\KorVlib\BookLibrary.Core\bin\Debug\net9.0\BookLibrary.Core.deps.json
+C:\Users\GIGABYTE\source\repos\KorVlib\BookLibrary.Core\bin\Debug\net9.0\BookLibrary.Core.dll
+C:\Users\GIGABYTE\source\repos\KorVlib\BookLibrary.Core\bin\Debug\net9.0\BookLibrary.Core.pdb
+C:\Users\GIGABYTE\source\repos\KorVlib\BookLibrary.Core\obj\Debug\net9.0\BookLibrary.Core.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\KorVlib\BookLibrary.Core\obj\Debug\net9.0\BookLibrary.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIGABYTE\source\repos\KorVlib\BookLibrary.Core\obj\Debug\net9.0\BookLibrary.Core.AssemblyInfoInputs.cache
+C:\Users\GIGABYTE\source\repos\KorVlib\BookLibrary.Core\obj\Debug\net9.0\BookLibrary.Core.AssemblyInfo.cs
+C:\Users\GIGABYTE\source\repos\KorVlib\BookLibrary.Core\obj\Debug\net9.0\BookLibrary.Core.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\KorVlib\BookLibrary.Core\obj\Debug\net9.0\BookLibrary.Core.dll
+C:\Users\GIGABYTE\source\repos\KorVlib\BookLibrary.Core\obj\Debug\net9.0\refint\BookLibrary.Core.dll
+C:\Users\GIGABYTE\source\repos\KorVlib\BookLibrary.Core\obj\Debug\net9.0\BookLibrary.Core.pdb
+C:\Users\GIGABYTE\source\repos\KorVlib\BookLibrary.Core\obj\Debug\net9.0\ref\BookLibrary.Core.dll
